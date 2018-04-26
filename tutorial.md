@@ -2,15 +2,16 @@
 
 ## Terminology
 * **ATOM**: A text editor with git/GitHub integration
-* **FORK**: Make a personal, *editable* copy of a public GitHub repository
+* **FORK**: Make a personal, editable copy of a public GitHub repository
 * **CLONE**: Download the contents of an online git repository onto your local computer
 * **BRANCH**: Create a parallel copy/trajectory of a git repository
-* **CHECKOUT**: Switch over to a different branch of your git repository
-* **STAGE**: 
-* **COMMIT**: 
-* **PUSH**: Send local changes of a git repository back to the online copy of the repository
-* **PULL**: Copying down changes from the online copy of a git repository to your local version
-* **PULL REQUEST**: Request a different fork/branch integrate the changes you've made on a fork/branch of your git repository
+* **CHECKOUT**: Switch over to a different *branch* of your git repository
+* **STAGE**: Prepare new/deleted/modified files to be *committed* to git history
+* **COMMIT**: Store all *staged* changes in git history
+* **REMOTE**: An online version of your local git repository
+* **PUSH**: Send local changes of a git repository back to the *remote* copy of the repository
+* **PULL**: Copying down changes from the *remote* copy of a git repository to your local version
+* **PULL REQUEST**: Request a different *fork* or *branch* integrate the changes you've made in your git repository
 
 ## GitHub collaborative workflow
 1. Always `fork` a project you want to work on, so you can have your own copy of the original repository. Do this by going to the repository on GitHub and clicking `fork` in the top-right corner.
