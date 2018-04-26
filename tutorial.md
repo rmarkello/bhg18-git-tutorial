@@ -5,3 +5,5 @@ Push: upload new commits
 Pull: download a repository
 Commit: save changes
 Remote: set the online repository where commits will be pushed/pulled  
+
+Ross is the best GITHUB Teacher!!!! 
