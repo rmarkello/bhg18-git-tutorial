@@ -1,5 +1,5 @@
 
-#GITHUB COLLABORATIVE TUTORIAL
+# GITHUB COLLABORATIVE TUTORIAL
 
 *Here's a list of GitHub-related words we learned today*
 1. Always **fork** a project you want to work on, so you can have your own copy of the original repository.
