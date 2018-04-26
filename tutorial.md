@@ -9,7 +9,6 @@
 * **PULL REQUEST**: Request a different fork/branch integrate the changes you've made on a fork/branch of your git repository
 
 ## GitHub collaborative workflow
-1. Always **fork** a project you want to work on, so you can have your own copy of the original repository. Do this by going to the repository on GitHub and clicking *Fork* in the top-right corner.
+1. Always `fork` a project you want to work on, so you can have your own copy of the original repository. Do this by going to the repository on GitHub and clicking `fork` in the top-right corner.
 2. Making sure you have git installed on your computer, open a terminal and type: `git clone https://github.com/yourusername/reponame`. A new directory will be created titled `yourreponame`.
-3. Open [Atom](https://atom.io/)
-4. In Atom, click **File --> Add a project folder** and select the folder you just downloaded.
+3. Open [Atom](https://atom.io/), click **File --> Add a project folder**, and select the folder `yourreponame`.
