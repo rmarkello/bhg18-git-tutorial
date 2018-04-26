@@ -8,8 +8,9 @@
 * **CHECKOUT**: Switch over to a different *branch* of your git repository.
 * **STAGE**: Prepare new/deleted/modified files to be *committed* to git history.
 * **COMMIT**: Store all *staged* changes in git history. Refers to both the act of storing and the changes themselves.
+* **COMMIT MESSAGE**: A 
 * **REMOTE**: An online version of your local git repository.
-* **PUSH**: Send changes of a local git repository back to the *remote* copy of the repository.
+* **PUSH**: Send changes of a local git repository back to the *remote* copy of the repository (e.g., the copy on GitHub that was *cloned*).
 * **PULL**: Copy down changes from a *remote* a git repository to your local version.
 * **PULL REQUEST (PR)**: Request a different *fork* or *branch* integrate the changes you've made in your git repository. Refers to both the act of requesting and the request itself.
 * **MERGE**: Join two branches of a git repository together.
